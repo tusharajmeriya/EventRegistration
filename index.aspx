@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="preview_dotnet_templates_registration_Form_index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="preview_dotnet_templates_registration_Form_index" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -11,7 +11,7 @@
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="Coming soon, Bootstrap, Bootstrap 3.0, Free Coming Soon, free coming soon, free template, coming soon template, Html template, html template, html5, Code lab, codelab, codelab coming soon template, bootstrap coming soon template">
-    <title>Bootstrap Templates</title>
+    <title>Home</title>
     <!-- ============ Google fonts ============ -->
     <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet'
         type='text/css' />
@@ -27,7 +27,7 @@
     <div id="custom-bootstrap-menu" class="navbar navbar-default " role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand" href="#">Bootstrap</a>
+                <a class="navbar-brand" href="#">Event Registration</a>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder">
                     <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
                         class="icon-bar"></span><span class="icon-bar"></span>
@@ -36,7 +36,7 @@
             <div class="collapse navbar-collapse navbar-menubuilder">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="/">Home</a> </li>
-                    <li><a href="/products">Products</a> </li>
+                    <li><a href="Event_Details.aspx">Event Details</a> </li>
                     <li><a href="/about-us">About Us</a> </li>
                     <li><a href="/contact">Contact Us</a> </li>
                 </ul>
@@ -47,9 +47,9 @@
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center">
             <div id="banner">
                 <h1>
-                    Bootstrap <strong>Registration Form</strong> for .net developers</h1>
+                    Register for <strong>Garba Compitation 2016.</strong></h1>
                 <h5>
-                    <strong>aspxtemplates.com</strong></h5>
+                    <strong>Rajpath Club,S.G. Highway, Ahmedabad</strong></h5>
             </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
